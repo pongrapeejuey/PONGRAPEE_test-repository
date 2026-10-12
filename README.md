@@ -1,5 +1,8 @@
-#Our Git Team
+# Our Git Team
 
-##Team Member
+## Team Member
 Pongrapee Juey 
 Varot Vilay
+
+## About Us
+I refuse to answer that question on the grounds that I don't know the answer.
